@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\DevDotNET\\Balta\\Balta.csproj": {}
+    "c:\\DevDotNET\\Balta\\Balta.csproj": {}
   },
   "projects": {
-    "C:\\DevDotNET\\Balta\\Balta.csproj": {
+    "c:\\DevDotNET\\Balta\\Balta.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\DevDotNET\\Balta\\Balta.csproj",
+        "projectUniqueName": "c:\\DevDotNET\\Balta\\Balta.csproj",
         "projectName": "Balta",
-        "projectPath": "C:\\DevDotNET\\Balta\\Balta.csproj",
+        "projectPath": "c:\\DevDotNET\\Balta\\Balta.csproj",
         "packagesPath": "C:\\Users\\Davi\\.nuget\\packages\\",
-        "outputPath": "C:\\DevDotNET\\Balta\\obj\\",
+        "outputPath": "c:\\DevDotNET\\Balta\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
